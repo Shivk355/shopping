@@ -1,0 +1,23 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "MEAN with 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivk355/shopping.git"
+  },
+  "author": "Shiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivk355/shopping/issues"
+  },
+  "homepage": "https://github.com/Shivk355/shopping#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
